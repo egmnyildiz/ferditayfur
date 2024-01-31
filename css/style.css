@@ -1,0 +1,15 @@
+
+:root {
+    --pembe: pink; 
+    --siyah: black;
+    --siyah-light: rgb(245, 244, 244);
+    --beyaz: white;
+}
+
+body {
+    background-color: var(--siyah-light);
+}
+
+.aktif-menu {
+    background-color: var(--pembe);
+}
